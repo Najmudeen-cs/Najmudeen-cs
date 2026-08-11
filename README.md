@@ -363,13 +363,22 @@ status: "OPEN_TO_OPPORTUNITIES"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=9B7CFF&icon_color=9B7CFF&text_color=AAAAAA" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Najmudeen-cs&show_icons=true&theme=transparent&hide_border=true&title_color=9B7CFF&icon_color=9B7CFF&text_color=AAAAAA&cache_seconds=86400"
+  width="48%"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=9B7CFF&text_color=AAAAAA" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najmudeen-cs&layout=compact&theme=transparent&hide_border=true&title_color=9B7CFF&text_color=AAAAAA&cache_seconds=86400"
+  width="41%"
+/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=9B7CFF&fire=9B7CFF&currStreakLabel=9B7CFF" />
+<img
+  src="https://streak-stats.demolab.com/?user=Najmudeen-cs&theme=transparent&hide_border=true&ring=9B7CFF&fire=9B7CFF&currStreakLabel=9B7CFF"
+  width="70%"
+/>
 
 </div>
 
@@ -379,10 +388,12 @@ status: "OPEN_TO_OPPORTUNITIES"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=9B7CFF&line=6D5CFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Najmudeen-cs&bg_color=00000000&color=9B7CFF&line=6D5CFF&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+/>
 
 </div>
-
 ---
 
 # `// CONNECT`
