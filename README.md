@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Najmudeen - Junior Cybersecurity Analyst">
-</picture>
 # Hi, I'm Najmudeen 👋
 
 ### Junior Cybersecurity Analyst | Security Operations | Vulnerability Assessment | Web Security
