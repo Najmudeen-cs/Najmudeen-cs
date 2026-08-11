@@ -8,10 +8,10 @@
 
 <br>
 
-[![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-11111a?style=for-the-badge\&logo=googlemaps\&logoColor=9B7CFF)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-11111a?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:najmudeen.cs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-11111a?style=for-the-badge\&logo=github\&logoColor=ffffff)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-11111a?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](#)
+[![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-11111a?style=for-the-badge&logo=googlemaps&logoColor=9B7CFF)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-11111a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:najmudeen.cs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-11111a?style=for-the-badge&logo=github&logoColor=ffffff)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-11111a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
 
 </div>
 
@@ -70,18 +70,18 @@ methodology:
 
 ### `OFFENSIVE SECURITY`
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-11111a?style=for-the-badge\&logo=burpsuite\&logoColor=FF6633)
-![Nmap](https://img.shields.io/badge/Nmap-11111a?style=for-the-badge\&logo=linux\&logoColor=9B7CFF)
-![Metasploit](https://img.shields.io/badge/Metasploit-11111a?style=for-the-badge\&logo=metasploit\&logoColor=9B7CFF)
-![Nessus](https://img.shields.io/badge/Nessus-11111a?style=for-the-badge\&logo=tenable\&logoColor=9B7CFF)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-11111a?style=for-the-badge\&logo=owasp\&logoColor=9B7CFF)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-11111a?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-11111a?style=for-the-badge&logo=linux&logoColor=9B7CFF)
+![Metasploit](https://img.shields.io/badge/Metasploit-11111a?style=for-the-badge&logo=metasploit&logoColor=9B7CFF)
+![Nessus](https://img.shields.io/badge/Nessus-11111a?style=for-the-badge&logo=tenable&logoColor=9B7CFF)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-11111a?style=for-the-badge&logo=owasp&logoColor=9B7CFF)
 
 ### `RECON & NETWORK`
 
-![Wireshark](https://img.shields.io/badge/Wireshark-11111a?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
-![Gobuster](https://img.shields.io/badge/Gobuster-11111a?style=for-the-badge\&logo=gnu\&logoColor=9B7CFF)
-![Nikto](https://img.shields.io/badge/Nikto-11111a?style=for-the-badge\&logo=linux\&logoColor=9B7CFF)
-![Hydra](https://img.shields.io/badge/Hydra-11111a?style=for-the-badge\&logo=linux\&logoColor=9B7CFF)
+![Wireshark](https://img.shields.io/badge/Wireshark-11111a?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Gobuster](https://img.shields.io/badge/Gobuster-11111a?style=for-the-badge&logo=gnu&logoColor=9B7CFF)
+![Nikto](https://img.shields.io/badge/Nikto-11111a?style=for-the-badge&logo=linux&logoColor=9B7CFF)
+![Hydra](https://img.shields.io/badge/Hydra-11111a?style=for-the-badge&logo=linux&logoColor=9B7CFF)
 
 ```text
 [ RECON ]
@@ -363,20 +363,19 @@ status: "OPEN_TO_OPPORTUNITIES"
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Najmudeen-cs&show_icons=true&theme=transparent&hide_border=true&title_color=9B7CFF&icon_color=9B7CFF&text_color=AAAAAA&cache_seconds=86400"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najmudeen-cs&layout=compact&theme=transparent&hide_border=true&title_color=9B7CFF&text_color=AAAAAA&cache_seconds=86400"
-  width="41%"
-/>
+<a href="https://github.com/Najmudeen-cs">
+  <img
+    src="https://githubcard.com/Najmudeen-cs.svg"
+    alt="Najmudeen S GitHub profile statistics"
+    width="92%"
+  />
+</a>
 
 <br><br>
 
 <img
   src="https://streak-stats.demolab.com/?user=Najmudeen-cs&theme=transparent&hide_border=true&ring=9B7CFF&fire=9B7CFF&currStreakLabel=9B7CFF"
+  alt="Najmudeen S GitHub streak statistics"
   width="70%"
 />
 
@@ -406,9 +405,9 @@ status: "OPEN_TO_OPPORTUNITIES"
 
 <br>
 
-[![Email](https://img.shields.io/badge/EMAIL-11111a?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:najmudeen.cs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-11111a?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](#)
-[![GitHub](https://img.shields.io/badge/GITHUB-11111a?style=for-the-badge\&logo=github\&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/EMAIL-11111a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:najmudeen.cs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-11111a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-11111a?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <br><br>
 
