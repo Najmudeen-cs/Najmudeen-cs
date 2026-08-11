@@ -24,13 +24,13 @@
 │                     SECURITY PROFILE                        │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  Name       : Najmudeen S                                  │
-│  Location   : Chennai, India                               │
+│  Name       : Najmudeen S                                   │
+│  Location   : Chennai, India                                │
 │  Domain     : Cybersecurity                                 │
-│  Focus      : VAPT / Web Security / Network Security       │
-│  OS         : Kali Linux / Parrot Security OS              │
-│  Mindset    : Recon → Analyze → Exploit → Secure           │
-│  Status     : OPEN TO CYBERSECURITY OPPORTUNITIES          │
+│  Focus      : VAPT / Web Security / Network Security        │
+│  OS         : Kali Linux / Parrot Security OS               │
+│  Mindset    : Recon → Analyze → Exploit → Secure            │
+│  Status     : OPEN TO CYBERSECURITY OPPORTUNITIES           │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -246,7 +246,7 @@ An AI-powered remote proctoring system combining identity verification, behavior
 │                                                │
 │  FACE RECOGNITION        LIVENESS DETECTION    │
 │                                                │
-│  VOICE BIOMETRICS        EYE TRACKING         │
+│  VOICE BIOMETRICS        EYE TRACKING          │
 │                                                │
 │  KEYSTROKE DYNAMICS      RBAC                  │
 │                                                │
@@ -307,12 +307,12 @@ LOCATION    : CHENNAI, INDIA
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ✓ Skillogic                 Cybersecurity Internship       │
-│  ✓ Deloitte / Forage        Cyber Job Simulation           │
-│  ✓ TryHackMe                 Pre-Security                    │
-│  ✓ TryHackMe                 SOC L1                          │
-│  ✓ TryHackMe                 Jr Pentester                    │
+│  ✓ Deloitte / Forage         Cyber Job Simulation           │
+│  ✓ TryHackMe                 Pre-Security                   │
+│  ✓ TryHackMe                 SOC L1                         │
+│  ✓ TryHackMe                 Jr Pentester                   │
 │  ✓ Cyfoxgen                  Cybersecurity Internship       │
-│  ✓ Cisco Networking Academy  Introduction to Cybersecurity │
+│  ✓ Cisco Networking Academy  Introduction to Cybersecurity  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -404,7 +404,7 @@ status: "OPEN_TO_OPPORTUNITIES"
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│       "SECURITY STARTS WHERE ASSUMPTIONS END."              │
+│       "SECURITY STARTS WHERE ASSUMPTIONS END."               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
